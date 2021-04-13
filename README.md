@@ -40,6 +40,8 @@
 Directly copy `TZSignalBarStrength` to your project.
 
 ## Roadmap:
+- [ ] Add a cocoapods version.
+- [ ] Add a swift package manager version.
 - [ ] Support custom number of signal bars.
 - [ ] Support custom values for different strengths.
 - [ ] Add fading animation.
