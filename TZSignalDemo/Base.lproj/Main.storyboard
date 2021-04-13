@@ -33,7 +33,7 @@
                                     <userDefinedRuntimeAttribute type="color" keyPath="lowStrengthColor">
                                         <color key="value" systemColor="systemRedColor"/>
                                     </userDefinedRuntimeAttribute>
-                                    <userDefinedRuntimeAttribute type="number" keyPath="progress">
+                                    <userDefinedRuntimeAttribute type="number" keyPath="strength">
                                         <integer key="value" value="1"/>
                                     </userDefinedRuntimeAttribute>
                                     <userDefinedRuntimeAttribute type="number" keyPath="barCornerRadius">
@@ -71,7 +71,7 @@
                                     <userDefinedRuntimeAttribute type="color" keyPath="lowStrengthColor">
                                         <color key="value" systemColor="systemRedColor"/>
                                     </userDefinedRuntimeAttribute>
-                                    <userDefinedRuntimeAttribute type="number" keyPath="progress">
+                                    <userDefinedRuntimeAttribute type="number" keyPath="strength">
                                         <integer key="value" value="5"/>
                                     </userDefinedRuntimeAttribute>
                                     <userDefinedRuntimeAttribute type="number" keyPath="barCornerRadius">
