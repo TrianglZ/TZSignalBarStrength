@@ -1,6 +1,5 @@
 # TZSignalStrengthView for iOS
 
-[![CocoaPods Version](https://img.shields.io/badge/pod-v1.0-blue)]()
 [![License](https://img.shields.io/badge/license-MIT-lightgrey)]()
 [![Platform](https://img.shields.io/badge/platform-iOS-lightgrey)]()
 
