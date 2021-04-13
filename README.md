@@ -48,7 +48,7 @@ Directly copy `TZSignalBarStrength` to your project.
 
 ## License
 
-MIT license
+`TZSignalStrengthView` is available under the MIT license.
 
 ## Data collection
 
