@@ -21,21 +21,30 @@
 
 1) Add a new  `UIView` and set it's class to `TZSignalBarView` and its module to `TZSignalBarStrength`.
 
-<img src = 'https://github.com/TrianglZ/TZSignalBarStrength/blob/cc495459ee1e8cfe0557cedde28ce28608f2d7df/Screenshots/Properties.png' width = 250 height = 350>
+<img src = 'https://github.com/TrianglZ/TZSignalBarStrength/blob/cc495459ee1e8cfe0557cedde28ce28608f2d7df/Screenshots/Properties.png' width = 250 height = 450>
 
-2) Set the custom features as preferred.
+2) Set width and height constraints to `TZSignalBarView`.
+
+3) Set the custom features as preferred.
 
 <img src = 'https://github.com/TrianglZ/TZSignalBarStrength/blob/cc495459ee1e8cfe0557cedde28ce28608f2d7df/Screenshots/CustomClass.png' width = 250 height = 350>
 
-3) Animation sample:
+4) Animation sample:
     https://user-images.githubusercontent.com/22980568/114559423-fde4dc00-9c6b-11eb-98dc-ba510e3e5af4.mp4
     
-4) Check out the `Demo app` for more examples.
+5) Check out the `Demo app` for more examples.
 
 ## Installation
 
 #### Manual setup
 Directly copy `TZSignalBarStrength` to your project.
+
+## Roadmap:
+- [ ] Support custom number of signal bars.
+- [ ] Support custom values for different strengths.
+- [ ] Add fading animation.
+- [ ] Add interaction methods.
+- [ ] Support interactive signal customization. (Change signal strength during run-time)
 
 ## License
 
