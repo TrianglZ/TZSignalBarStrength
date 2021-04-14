@@ -10,11 +10,11 @@
 `TZSignalStrengthView` is an easy to use UI component to help display a signal bar with an added customizable fill animation providing the following features:
 
 * Easy customization using the interface builder.
-* Support for different colors to different strengths (high, medium and low).
-* Customized duration of animation.
+* Support for different colors to different strengths (high, medium, and low).
+* Customized duration of the animation.
 * The number of bars is corresponding to the specified strength.
 * The ability to add borders with custom widths'.
-* The ability to change the bars spacing.
+* The ability to change the spacing of the bars.
 
 ## Usage
 
