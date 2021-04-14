@@ -7,7 +7,7 @@
 
 import UIKit
 
-class FillView: UIView {
+public class FillView: UIView {
     
     let shapeLayer = CAShapeLayer()
     let maskLayer = CAShapeLayer()

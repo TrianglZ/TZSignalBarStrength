@@ -15,7 +15,7 @@ Pod::Spec.new do |spec|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  spec.name         = "TZSignalStrengthView"
+  spec.name         = "TZSignalBarStrength"
   spec.version      = "1.0.0"
   spec.summary      = "Signal bar view with customizable animation"
 
@@ -70,8 +70,8 @@ Pod::Spec.new do |spec|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  # spec.source       = { :git => "https://github.com/TrianglZ/TZSignalBarStrength", :tag => "#{spec.version}" }
-  spec.source       = { :http => 'file:' + __dir__ + "/" }
+  spec.source       = { :git => "https://github.com/TrianglZ/TZSignalBarStrength.git", :tag => "#{spec.version}" }
+  # spec.source       = { :http => 'file:' + __dir__ + "/" }
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
@@ -81,8 +81,8 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "Classes", "Classes/**/*.{h,m}"
-  spec.exclude_files = "Classes/Exclude"
+  spec.source_files  = "TZSignalBarStrength", "TZSignalBarStrength/**/*.{h,m,mp4,png}"
+  spec.exclude_files = "TZSignalBarStrength/Exclude"
 
   # spec.public_header_files = "Classes/**/*.h"
 
