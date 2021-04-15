@@ -2,6 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-lightgrey)]()
 [![Platform](https://img.shields.io/badge/platform-iOS-lightgrey)]()
+[![Platform](https://img.shields.io/badge/pod-v1.0.0-blue)]()
 
 ## Introduction
 
@@ -35,11 +36,22 @@
 
 ## Installation
 
-#### Manual setup
+### Manual setup
 Directly copy `TZSignalBarStrength` to your project.
 
+### Cocoa pods
+Add the pod to your pod file:
+```ruby
+pod 'TZSignalBarStrength'
+```
+
+And then run:
+```ruby
+pod install
+```
+
 ## Roadmap:
-- [ ] Add a cocoapods version.
+- [x] Add a cocoapods version.
 - [ ] Add a swift package manager version.
 - [ ] Support custom number of signal bars.
 - [ ] Support custom values for different strengths.
