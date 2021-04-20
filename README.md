@@ -53,6 +53,7 @@ pod install
 ## Roadmap:
 - [x] Add a cocoapods version.
 - [ ] Add a swift package manager version.
+- [ ] Add a SwiftUI version.
 - [ ] Support custom number of signal bars.
 - [ ] Support custom values for different strengths.
 - [ ] Add fading animation.
