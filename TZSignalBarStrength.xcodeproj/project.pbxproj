@@ -76,6 +76,7 @@
 		DC16177E261DFE4300F346E9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DC1617C3261E0AE600F346E9 /* UIView+FixInView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+FixInView.swift"; sourceTree = "<group>"; };
 		DCDC850C2623723300FD65DE /* FillView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FillView.swift; sourceTree = "<group>"; };
+		DCEFF440265A6FAE0082692C /* TZSignalBarStrength */ = {isa = PBXFileReference; lastKnownFileType = folder; name = TZSignalBarStrength; path = TZSignalBarStrength/TZSignalBarStrength; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +101,7 @@
 		DC16168D261DB25C00F346E9 = {
 			isa = PBXGroup;
 			children = (
+				DCEFF440265A6FAE0082692C /* TZSignalBarStrength */,
 				DC161699261DB25D00F346E9 /* TZSignalBarStrength */,
 				DC16176F261DFE4000F346E9 /* TZSignalDemo */,
 				DC161698261DB25D00F346E9 /* Products */,
