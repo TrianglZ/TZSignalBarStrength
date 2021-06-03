@@ -1,0 +1,4 @@
+framework module TZSignalBarStrength {
+  header "TZSignalBarStrength-Swift.h"
+  requires objc
+}

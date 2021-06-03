@@ -2,6 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-lightgrey)]()
 [![Platform](https://img.shields.io/badge/platform-iOS-lightgrey)]()
+[![Platform](https://img.shields.io/badge/pod-v1.0.0-blue)]()
 
 ## Introduction
 
@@ -10,11 +11,11 @@
 `TZSignalStrengthView` is an easy to use UI component to help display a signal bar with an added customizable fill animation providing the following features:
 
 * Easy customization using the interface builder.
-* Support for different colors to different strengths (high, medium and low).
-* Customized duration of animation.
+* Support for different colors to different strengths (high, medium, and low).
+* Customized duration of the animation.
 * The number of bars is corresponding to the specified strength.
 * The ability to add borders with custom widths'.
-* The ability to change the bars spacing.
+* The ability to change the spacing of the bars.
 
 ## Usage
 
@@ -35,12 +36,24 @@
 
 ## Installation
 
-#### Manual setup
+### Manual setup
 Directly copy `TZSignalBarStrength` to your project.
 
+### Cocoa pods
+Add the pod to your pod file:
+```ruby
+pod 'TZSignalBarStrength'
+```
+
+And then run:
+```ruby
+pod install
+```
+
 ## Roadmap:
-- [ ] Add a cocoapods version.
+- [x] Add a cocoapods version.
 - [ ] Add a swift package manager version.
+- [ ] Add a SwiftUI version.
 - [ ] Support custom number of signal bars.
 - [ ] Support custom values for different strengths.
 - [ ] Add fading animation.
